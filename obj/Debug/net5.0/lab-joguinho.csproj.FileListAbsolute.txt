@@ -1,0 +1,16 @@
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\lab-joguinho.exe
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\lab-joguinho.deps.json
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\lab-joguinho.runtimeconfig.json
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\lab-joguinho.runtimeconfig.dev.json
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\lab-joguinho.dll
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\ref\lab-joguinho.dll
+D:\Documentos\C#\DIO\lab-joguinho\bin\Debug\net5.0\lab-joguinho.pdb
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.csprojAssemblyReference.cache
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.AssemblyInfoInputs.cache
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.AssemblyInfo.cs
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.dll
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\ref\lab-joguinho.dll
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.pdb
+D:\Documentos\C#\DIO\lab-joguinho\obj\Debug\net5.0\lab-joguinho.genruntimeconfig.cache
